@@ -1,0 +1,15 @@
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/obj/Debug/net7.0/ex36.csproj.AssemblyReference.cache
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/obj/Debug/net7.0/ex36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/obj/Debug/net7.0/ex36.AssemblyInfoInputs.cache
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/obj/Debug/net7.0/ex36.AssemblyInfo.cs
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/obj/Debug/net7.0/ex36.csproj.CoreCompileInputs.cache
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/bin/Debug/net7.0/ex36
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/bin/Debug/net7.0/ex36.deps.json
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/bin/Debug/net7.0/ex36.runtimeconfig.json
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/bin/Debug/net7.0/ex36.dll
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/bin/Debug/net7.0/ex36.pdb
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/obj/Debug/net7.0/ex36.dll
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/obj/Debug/net7.0/refint/ex36.dll
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/obj/Debug/net7.0/ex36.pdb
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/obj/Debug/net7.0/ex36.genruntimeconfig.cache
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework5/ex36/obj/Debug/net7.0/ref/ex36.dll
